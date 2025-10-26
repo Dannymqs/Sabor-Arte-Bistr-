@@ -53,7 +53,7 @@ Durante o desenvolvimento, foram explorados conceitos de:
 
 ```bash
 # Clone este repositório
-git clone https://github.com/seuusuario/sabor-arte-bistro.git
+git clone https://github.com/dannymqs/Sabor-Arte-Bistr-.git
 
 # Acesse a pasta do projeto
 cd sabor-arte-bistro
